@@ -1,5 +1,7 @@
 # fun-with-ai
 
+Check the blogpost to see how to set up Ollama : https://dev.to/sebastienblanc/java-genai-the-ultimate-developers-joy-with-quarkus-langchain4j-and-ollama-179e
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
